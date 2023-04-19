@@ -1,10 +1,10 @@
-# Hi there 👋, my name is Jose Torronteras
-## Senior iOS Developer
+### Hi there 👋, my name is Jose Torronteras
+#### Senior iOS Developer
 I'm an experienced iOS developer with a passion for building beautiful, performant and user-friendly applications. I have a deep understanding of Swift, Objective-C, SwiftUI, UIKit, Core Data, and other technologies required for iOS app development.
 
 <br>
 
-## 👨🏻‍💻 Here are some of the projects I've worked on:
+#### 👨🏻‍💻 Here are some of the projects I've worked on:
 
 <img src="https://play-lh.googleusercontent.com/2caqWKMwYSVkMrK-5wyV_lCCBmlR7ham68LsQ3xTA_maQKjQQlp-ynyM_tnAbzmUkgo=s96-rw" width="18" height="18"></img> [Bizum](https://bizum.es) - [App Store](https://apps.apple.com/es/app/kutxabankpay/id1138309395) - Bizum is a mobile payment service that allows you to send and receive money from your mobile phone. It is a service that is available to all Spanish banks and is free for users.
 
@@ -16,7 +16,7 @@ I'm an experienced iOS developer with a passion for building beautiful, performa
 
 <br>
 
-## My principal technologies that I'm currently working with:
+#### My principal technologies that I'm currently working with:
 
 [![iOS](https://img.shields.io/badge/-iOS-black?style=flat&logo=apple)](https://developer.apple.com/ios/)
 [![Swift](https://img.shields.io/badge/-Swift-black?style=flat&logo=swift)](https://developer.apple.com/swift/)
@@ -29,7 +29,7 @@ I'm an experienced iOS developer with a passion for building beautiful, performa
 
 <br>
 
-## Other technologies I've worked with:
+#### Other technologies I've worked with:
 ![Backend](https://img.shields.io/badge/-Backend-white?style=flat)
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)](https://www.php.net)
 [![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)](https://laravel.com)
@@ -55,7 +55,7 @@ I'm an experienced iOS developer with a passion for building beautiful, performa
 
 <br>
 
-## 📲 How to reach me?
+#### 📲 How to reach me?
 [![josetorronteras.es](https://img.shields.io/badge/-josetorronteras.es-black?style=flat&logo=google-chrome)](https://josetorronteras.es)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/josetorronteras)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat&logo=twitter)](https://twitter.com/josetorrontera)
