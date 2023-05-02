@@ -64,6 +64,7 @@ I'm an experienced iOS developer with a passion for building beautiful, performa
 [![Dev.to](https://img.shields.io/badge/-Dev.to-black?style=flat&logo=dev.to)](https://dev.to/josetorronteras)
 [![Mastodon](https://img.shields.io/badge/-Mastodon-black?style=flat&logo=mastodon)](https://mastodon.social/@josetorronteras)
 [![Docker Hub](https://img.shields.io/badge/-Docker_Hub-black?style=flat&logo=docker)]()
+[![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=kaggle)](https://www.kaggle.com/josetorronteras/)
 
 <!--
 **josetorronteras/josetorronteras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
